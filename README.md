@@ -14,7 +14,7 @@ CODER BY KRONİK.
   
 
  # Bazı Görseller  
--YAKINDA
+- YAKINDA
 
 
 
