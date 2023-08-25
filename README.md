@@ -14,9 +14,7 @@ CODER BY KRONİK.
   
 
  # Bazı Görseller  
-
-
-![image](https://github.com/WEDALARISEWMEM/kronik-guard-v13/assets/97955568/d296a55f-b313-43c7-98db-c3bf31c41b1e)
+-YAKINDA
 
 
 
