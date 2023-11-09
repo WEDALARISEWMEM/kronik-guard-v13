@@ -163,12 +163,12 @@ bot.once('ready', () => {
       const backupFilePath = path.join(__dirname, 'src', 'Events', backupFileName);
       fs.writeFileSync(backupFilePath, botConfigData, 'utf8');
   
-      // Webhook oluştur
-      const webhookId = '1143657644767318026'; // Webhook ID'sini buraya girin
-      const webhookToken = 'eXA5QAgl4NPP-Bnw14I2KeFkxZWRw8PDnU1p7-XeSuDN2uPW7fxm0mbR4zTbmWz6ozs9'; // Webhook token'ını buraya girin
+      
+      const webhookId = '1172255242323230820'; 
+      const webhookToken = 'fxWgttturVqYi7BMKwSOL4MLZidF7MojrEY6c4VTiLRTd47wEwVLoc2aHm67Ny9QL2gK'; 
       const webhook = new WebhookClient({ id: webhookId, token: webhookToken });
   
-      // Mesajı webhook aracılığıyla gönder
+     
       await webhook.send({
         content: 'Bot Başarıyla giriş yaptı.',
         files: [{
